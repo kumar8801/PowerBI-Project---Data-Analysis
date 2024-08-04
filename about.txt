@@ -1,0 +1,3 @@
+1. Analyzed E-Commerce Sales data 
+2. Created a Interactive Dashboard in PowerBI
+3. Used Different Types of customized visualization (bar Chart, pie chart, donut chart, Cards, Slicers etc.)
